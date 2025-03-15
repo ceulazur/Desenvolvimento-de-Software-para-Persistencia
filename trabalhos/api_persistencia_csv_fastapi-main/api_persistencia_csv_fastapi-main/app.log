@@ -1,0 +1,71 @@
+2024-11-28 10:47:11,158 - Book updated - ID: 1
+2024-11-28 11:07:28,009 - Books count retrieved - Count: 1
+2024-11-28 11:07:29,859 - Books count retrieved - Count: 1
+2024-11-28 11:07:37,237 - Books CSV file compressed and ready for download
+2024-11-28 11:08:03,550 - SHA256 hash of CSV file calculated - Hash: 095348f71af58e85742fdeb38027a95490ca8419f1e027a8bc291257b3425718
+2024-12-09 11:33:35,762 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:23:59,159 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:26:47,977 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:31:00,349 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:32:25,535 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:32:35,379 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:32:43,362 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:32:48,410 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:33:12,725 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:33:13,325 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:33:21,970 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:33:40,023 - Livro criado - ID: 5
+2024-12-09 12:33:40,037 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:33:46,595 - Livro deletado - ID: 5
+2024-12-09 12:33:46,607 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:35:04,906 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:35:06,284 - Livro recuperado - ID: 1
+2024-12-09 12:35:10,002 - Livro atualizado - ID: 1
+2024-12-09 12:35:10,013 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:35:57,206 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:35:58,020 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:35:58,781 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:37:26,770 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:37:30,287 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:38:34,614 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:38:49,613 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:38:54,632 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:38:55,805 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:38:56,125 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:39:33,210 - Falha ao atualizar o livro - ID: 1
+2024-12-09 12:39:33,215 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:39:35,447 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:39:44,421 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:39:48,880 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:10,944 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:11,580 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:18,131 - Livro criado - ID: 1
+2024-12-09 12:40:24,666 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:25,469 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:48,209 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:40:49,216 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:42:39,874 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:42:42,130 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:42:57,791 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:42:58,820 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:43:12,633 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:44:07,811 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:44:08,422 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:44:59,591 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:00,549 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:06,597 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:07,487 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:13,507 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:24,535 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:25,570 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:42,473 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:46,696 - Livro recuperado - ID: 1
+2024-12-09 12:45:48,637 - Livro deletado - ID: 1
+2024-12-09 12:45:48,648 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:45:59,539 - Falha ao atualizar o livro - ID: 1
+2024-12-09 12:45:59,545 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:46:12,090 - Falha ao atualizar o livro - ID: 22
+2024-12-09 12:46:12,096 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:47:52,370 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
+2024-12-09 12:48:00,746 - Falha ao atualizar o livro - ID: 11
+2024-12-09 12:48:00,753 - Livros recuperados com filtros - título: None, autor: None, ano: None, gênero: None
